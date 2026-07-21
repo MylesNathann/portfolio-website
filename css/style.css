@@ -1,3 +1,7 @@
+:root{
+    --primary-color:red;
+}
+
 *{
     margin:0;
     padding:0;
@@ -75,12 +79,12 @@ body{
 }
 
 .hero-subtitle{
-    color:crimson;
+    color:nav(--primary-color);
     font-size:35px;
 }
 
 .hero-paragraph{
-    color:green;
+    color:nav(--primary-color);
     font-size:20px; 
 }
 
