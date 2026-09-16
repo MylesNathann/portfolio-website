@@ -148,7 +148,7 @@ body{
 }
 
 .skill {
-    padding: 8px 16px;
+    padding: 7px 16px;
     background-color:var(--skill-background);
     color: var(--primary-color);
     border-radius: var(--skill-radius);
